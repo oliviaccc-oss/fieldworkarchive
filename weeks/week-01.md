@@ -11,7 +11,12 @@ permalink: /weeks/week-01/
 > 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![](https://github.com/oliviaccc-oss/fieldworkarchive/blob/main/assets/images/w01_Pic_tonesensing.jpg)
+在課堂中，看到，想像只剩舌頭時，放大的感官
+
+![課堂看到不同形狀的酵母菌](https://github.com/oliviaccc-oss/fieldworkarchive/blob/main/assets/images/w01_Pic_yeast.jpg)
+如果細菌可以被塑形與重新定位，可以選擇跟誰一起生活長大活著，他們會有自己的喜好嗎？（或許會產生對其他生命的依賴？）
+
 
 ## FRICTION｜摩擦
 
@@ -19,11 +24,10 @@ permalink: /weeks/week-01/
 
 
 ## CONNECTION｜連結
-
-選擇本週閱讀或課堂案例中的一個概念。它如何改變你對上述瞬間的理解？
+![]()
+科學/語言是否以某種方式屏蔽了我們的感知能力？限制了溝通的可能通道？或許當我們被告知該如何去解構這個世界的時候，就忘記其實可以繼續開發身體本能的對話能力
 
 ## NEXT MOVE｜下一步
 
 當資訊缺乏的時候，要如何建立溝通體系，因應不同情境需求和互動過程中產生的變動，且產生因人而異的體驗和感受
 
-![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
